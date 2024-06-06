@@ -1,0 +1,15 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "274be6f9-27d1-4f2e-94c6-cebc9c61f467")
+	(paper "A4")
+	(title_block
+		(title "FruityLogger")
+		(date "2024-03-11")
+		(rev "A")
+		(company "FruityJungle Co.")
+		(comment 1 "Design Applied From https://www.acmesystems.it/pcb_microsd")
+	)
+	(lib_symbols)
+)
